@@ -16,4 +16,4 @@ The code for the following topics are not organized, but these are the topics it
 </ol>
 
 Also contains an Half unfinished code of 32 bit Adder. Tried to make it work. Gave up after a while😅.
-Everything was run in hardware 8051 Kit and software Keil Uvision 5.
+Everything was run in hardware 8051 Kit and software Keil Uvision 5. More about the course [here](https://bmsce.ac.in/Syllabus/EE/UG/UG%20Syllabus%202019-23(for%202019%20&%202020%20Admitted%20Students).pdf)
